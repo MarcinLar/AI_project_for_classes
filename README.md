@@ -17,7 +17,8 @@ Zestawy danych użyte w projekcie obejmują różne okresy czasowe i różną il
 •	training_2004-01-01_2024-06-16_c_data: 672,100 próbek, 13 walut
 
 # Struktura Sieci
-## Warstwa Wejściowa: Przyjmuje dwa wejścia - cenę kupna i cenę sprzedaży waluty.
+## Warstwa Wejściowa:
+Przyjmuje dwa wejścia - cenę kupna i cenę sprzedaży waluty.
 
 ## Warstwy Ukryte:
 Trzy warstwy ukryte, każda z funkcją aktywacji ReLU, aby wprowadzić nieliniowość.
