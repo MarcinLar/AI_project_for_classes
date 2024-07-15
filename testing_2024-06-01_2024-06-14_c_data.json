@@ -1,0 +1,912 @@
+[
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 3.9621,
+    "bid": 3.8837,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.6408,
+    "bid": 2.5886,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9065,
+    "bid": 2.8489,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.306,
+    "bid": 4.2208,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011064,
+    "bid": 0.010844,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.391,
+    "bid": 4.304,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.0546,
+    "bid": 4.9546,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025282,
+    "bid": 0.024782,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1741,
+    "bid": 0.1707,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5773,
+    "bid": 0.5659,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3783,
+    "bid": 0.3709,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3768,
+    "bid": 0.3694,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.2659,
+    "bid": 5.1617,
+    "effectiveDate": "2024-06-03"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 3.9873,
+    "bid": 3.9083,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.6572,
+    "bid": 2.6046,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9244,
+    "bid": 2.8664,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.3272,
+    "bid": 4.2416,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.01105,
+    "bid": 0.010832,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.4282,
+    "bid": 4.3406,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.0804,
+    "bid": 4.9798,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025452,
+    "bid": 0.024948,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1751,
+    "bid": 0.1717,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5801,
+    "bid": 0.5687,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3795,
+    "bid": 0.3719,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3804,
+    "bid": 0.3728,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.2777,
+    "bid": 5.1731,
+    "effectiveDate": "2024-06-04"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 3.9946,
+    "bid": 3.9154,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.6521,
+    "bid": 2.5995,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.92,
+    "bid": 2.8622,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.3413,
+    "bid": 4.2553,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011077,
+    "bid": 0.010857,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.4809,
+    "bid": 4.3921,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.1008,
+    "bid": 4.9998,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025793,
+    "bid": 0.025283,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1755,
+    "bid": 0.1721,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.582,
+    "bid": 0.5704,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3774,
+    "bid": 0.37,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3819,
+    "bid": 0.3743,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.2988,
+    "bid": 5.1938,
+    "effectiveDate": "2024-06-05"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 3.9855,
+    "bid": 3.9065,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.6501,
+    "bid": 2.5977,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9082,
+    "bid": 2.8506,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.339,
+    "bid": 4.253,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011109,
+    "bid": 0.010889,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.4687,
+    "bid": 4.3803,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.0984,
+    "bid": 4.9974,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025582,
+    "bid": 0.025076,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1764,
+    "bid": 0.173,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5818,
+    "bid": 0.5702,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3775,
+    "bid": 0.3701,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3836,
+    "bid": 0.376,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.2951,
+    "bid": 5.1903,
+    "effectiveDate": "2024-06-06"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 3.9828,
+    "bid": 3.904,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.6482,
+    "bid": 2.5958,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9103,
+    "bid": 2.8527,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.3353,
+    "bid": 4.2495,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011108,
+    "bid": 0.010888,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.4673,
+    "bid": 4.3789,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.092,
+    "bid": 4.9912,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025508,
+    "bid": 0.025002,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1761,
+    "bid": 0.1727,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5813,
+    "bid": 0.5697,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3759,
+    "bid": 0.3685,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3828,
+    "bid": 0.3752,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.2851,
+    "bid": 5.1805,
+    "effectiveDate": "2024-06-07"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 4.0174,
+    "bid": 3.9378,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.6495,
+    "bid": 2.5971,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9264,
+    "bid": 2.8684,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.3464,
+    "bid": 4.2604,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011143,
+    "bid": 0.010923,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.4811,
+    "bid": 4.3923,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.1122,
+    "bid": 5.011,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025593,
+    "bid": 0.025087,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1766,
+    "bid": 0.1732,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5826,
+    "bid": 0.571,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3765,
+    "bid": 0.3691,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3816,
+    "bid": 0.374,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.3034,
+    "bid": 5.1984,
+    "effectiveDate": "2024-06-10"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 4.0726,
+    "bid": 3.992,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.686,
+    "bid": 2.6328,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9565,
+    "bid": 2.8979,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.374,
+    "bid": 4.2874,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011091,
+    "bid": 0.010871,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.5414,
+    "bid": 4.4514,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.176,
+    "bid": 5.0736,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025956,
+    "bid": 0.025442,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1774,
+    "bid": 0.1738,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5864,
+    "bid": 0.5748,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3803,
+    "bid": 0.3727,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3862,
+    "bid": 0.3786,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.3244,
+    "bid": 5.219,
+    "effectiveDate": "2024-06-11"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 4.0905,
+    "bid": 4.0095,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.6967,
+    "bid": 2.6433,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9675,
+    "bid": 2.9087,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.3866,
+    "bid": 4.2998,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011119,
+    "bid": 0.010899,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.5563,
+    "bid": 4.4661,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.2005,
+    "bid": 5.0975,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.026031,
+    "bid": 0.025515,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1774,
+    "bid": 0.1738,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5881,
+    "bid": 0.5765,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3816,
+    "bid": 0.374,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3894,
+    "bid": 0.3816,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.3804,
+    "bid": 5.2738,
+    "effectiveDate": "2024-06-12"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 4.0359,
+    "bid": 3.9559,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.7014,
+    "bid": 2.648,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9489,
+    "bid": 2.8905,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.3737,
+    "bid": 4.2871,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011082,
+    "bid": 0.010862,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.5292,
+    "bid": 4.4396,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.1809,
+    "bid": 5.0783,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025905,
+    "bid": 0.025393,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1774,
+    "bid": 0.1738,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5864,
+    "bid": 0.5748,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3845,
+    "bid": 0.3769,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3921,
+    "bid": 0.3843,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.3781,
+    "bid": 5.2717,
+    "effectiveDate": "2024-06-13"
+  },
+  {
+    "code": "USD",
+    "currency": "dolar amerykański",
+    "ask": 4.0674,
+    "bid": 3.9868,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "AUD",
+    "currency": "dolar australijski",
+    "ask": 2.7038,
+    "bid": 2.6502,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "CAD",
+    "currency": "dolar kanadyjski",
+    "ask": 2.9596,
+    "bid": 2.901,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "EUR",
+    "currency": "euro",
+    "ask": 4.3876,
+    "bid": 4.3008,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "HUF",
+    "currency": "forint (Węgry)",
+    "ask": 0.011092,
+    "bid": 0.010872,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "CHF",
+    "currency": "frank szwajcarski",
+    "ask": 4.5414,
+    "bid": 4.4514,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "GBP",
+    "currency": "funt szterling",
+    "ask": 5.1961,
+    "bid": 5.0933,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "JPY",
+    "currency": "jen (Japonia)",
+    "ask": 0.025876,
+    "bid": 0.025364,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "CZK",
+    "currency": "korona czeska",
+    "ask": 0.1775,
+    "bid": 0.1739,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "DKK",
+    "currency": "korona duńska",
+    "ask": 0.5882,
+    "bid": 0.5766,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "NOK",
+    "currency": "korona norweska",
+    "ask": 0.3836,
+    "bid": 0.376,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "SEK",
+    "currency": "korona szwedzka",
+    "ask": 0.3896,
+    "bid": 0.3818,
+    "effectiveDate": "2024-06-14"
+  },
+  {
+    "code": "XDR",
+    "currency": "SDR (MFW)",
+    "ask": 5.3809,
+    "bid": 5.2743,
+    "effectiveDate": "2024-06-14"
+  }
+]
