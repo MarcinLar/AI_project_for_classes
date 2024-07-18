@@ -5,7 +5,7 @@ A project of simple neural network based on https://nnfs.io/
 Celem projektu jest stworzenie i wytrenowanie sieci neuronowej, która na podstawie cen kupna i sprzedaży walut określi kod waluty. Projekt wykorzystuje techniki takie jak propagacja wsteczna, propagacja w przód, aktywacja ReLU, Softmax, optymalizator Adam oraz funkcja straty kategorycznej entropii krzyżowej. Sieć została zaimplementowana w Pythonie 3.12.4 przy użyciu Visual Studio Code. Dokładniejszy opis działania sieci znajduje się w pliku projekt_AI.py w formie komentarzy do kodu.
 
 # Dane
-Dane zostały pobrane za pomocą pliku index.html, który został wykonany do projektu na inny przedmiot. A następnie przetworzone, aby dostosować je do wymagań modelu:
+Dane zostały pobrane za pomocą pliku index.html, który został wykonany do projektu na inny przedmiot(https://github.com/MarcinLar/downloading-data-from-nbp-api). A następnie przetworzone, aby dostosować je do wymagań modelu:
 •	Normalizacja danych
 •	Usunięcie niepotrzebnych kolumn
 •	Przekształcenie kolumny code z kodami walut na unikalne liczby
