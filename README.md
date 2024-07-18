@@ -54,3 +54,7 @@ Aby poprawić wyniki, można rozważyć dodanie dodatkowych warstw ukrytych i wi
 
 # Podsumowanie
 Projekt pokazuje, że sieć neuronowa może skutecznie klasyfikować waluty na podstawie cen kupna i sprzedaży, choć dokładność może się różnić w zależności od liczby klas w danych. Dalsza optymalizacja modelu i eksperymentowanie z jego architekturą może prowadzić do lepszych wyników. Projekt demonstruje również znaczenie przetwarzania danych i odpowiedniego doboru hiperparametrów dla skutecznego trenowania modeli sieci neuronowych.
+
+# Film poglądowy z działania kodu
+https://github.com/user-attachments/assets/6ad3fe8a-8590-46b8-a7cd-f3568ddff67d
+
